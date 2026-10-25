@@ -45,22 +45,7 @@ These are personal learning notes and summaries, not an official TryHackMe publi
 5. **Monitor and preserve evidence.** Watch retrieval, tool use, egress, and behavior changes while minimizing sensitive logs.
 6. **Retest after changes.** Data, model, prompt, provider, and dependency updates can change the threat surface.
 
-## Repository map
 
-~~~text
-Ai-Security/
-├── README.md
-└── assets/
-    └── screenshots/
-        └── ai-security-cover.svg
-~~~
-
-## Visuals and source screenshots
-
-The cover is original artwork for this repository. Module write-ups and reviewed screenshots will be added after I prepare the notes. Challenge flags and copied room answers will be excluded.
-## Attribution
-
-TryHackMe is the source of the learning path and lab material. This repository contains personal summaries and original diagrams/cards; it does not reproduce the course or challenge solutions. Refer to TryHackMe for the official learning content.
 
 
 
