@@ -1,6 +1,6 @@
 <div align="center">
 
-![AI Security learning path cover](./assets/screenshots/ai-security-cover.svg)
+![AI Security learning path cover](./assets/screenshots/ai-security-logo.png)
 
 # AI Security
 
