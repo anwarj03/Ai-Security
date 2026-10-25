@@ -6,7 +6,7 @@
 
 ### A practical study guide across five completed learning modules
 
-**5 modules · 25 source notes to be summarized with reviewed screenshots**
+**5 modules · 25 source notes**
 
 </div>
 
