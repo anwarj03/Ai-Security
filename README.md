@@ -26,11 +26,11 @@ These are personal learning notes and summaries, not an official TryHackMe publi
 
 | Module | Focus | Notes |
 |---|---|---:|
-| **01. AI Fundamentals** | How models learn, what data shapes them, and where security starts. | 5 |
-| **02. Secure AI Systems** | Architecture, threat modeling, and the exposed AI infrastructure surface. | 5 |
-| **03. Prompt Security** | Instruction boundaries, adversarial prompts, and layered defenses. | 5 |
-| **04. AI Supply Chain Security** | Model provenance, dependencies, datasets, and infrastructure controls. | 5 |
-| **05. Data Poisoning and RAG** | Retrieval boundaries, corpus integrity, and sensitive-data protection. | 5 |
+| [**01. AI Fundamentals**](./01-AI-Fundamentals/) | How models learn, what data shapes them, and where security starts. | 5 |
+| [**02. Secure AI Systems**](./02-Secure-AI-Systems/) | Architecture, threat modeling, and the exposed AI infrastructure surface. | 5 |
+| [**03. Prompt Security**](./03-Prompt-Security/) | Instruction boundaries, adversarial prompts, and layered defenses. | 5 |
+| [**04. AI Supply Chain Security**](./04-AI-Supply-Chain-Security/) | Model provenance, dependencies, datasets, and infrastructure controls. | 5 |
+| [**05. Data Poisoning and RAG**](./05-Data-Poisoning-and-RAG/) | Retrieval boundaries, corpus integrity, and sensitive-data protection. | 5 |
 
 ## What the path covers
 
