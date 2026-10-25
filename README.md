@@ -1,6 +1,6 @@
 <div align="center">
 
-![AI Security logo](./assets/screenshots/ai-security-logo.png)
+<img src="./assets/screenshots/ai-security-logo.png" width="220" alt="AI Security logo">
 
 # AI Security
 
