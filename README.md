@@ -14,7 +14,7 @@
 
 ## About
 
-This repository introduces my completed TryHackMe AI Security path and summarizes its five modules. Detailed note write-ups and reviewed screenshots will be added as I prepare them.
+This repository introduces my completed TryHackMe AI Security path and summarizes its five modules.
 
 These are personal learning notes and summaries, not an official TryHackMe publication. Challenge flags and copied answer text are excluded. Use hands-on security techniques only in systems and labs where you have authorization.
 
