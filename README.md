@@ -28,6 +28,19 @@ These are personal learning notes and summaries, not an official TryHackMe publi
 | **04. AI Supply Chain Security** | Model provenance, dependencies, datasets, and infrastructure controls. | 5 |
 | **05. Data Poisoning and RAG** | Retrieval boundaries, corpus integrity, and sensitive-data protection. | 5 |
 
+## Essential technologies
+
+<p align="center">
+  <img src="./assets/technology-map.svg" width="100%" alt="Technologies and security references covered in the AI Security path">
+</p>
+
+- **AI & machine learning:** Python, PyTorch, TensorFlow, scikit-learn, Transformers, Hugging Face.
+- **Model lifecycle & formats:** Ollama, MLflow, ONNX, Pickle, Safetensors.
+- **RAG & vector search:** LangChain, embeddings, Chroma, Qdrant, Milvus.
+- **Infrastructure & platforms:** Docker, Kubernetes, AWS, Azure, NVIDIA.
+- **Security references:** OWASP LLM Top 10, MITRE ATLAS, EU AI Act.
+- **Attack themes:** prompt injection, jailbreaking, and data poisoning.
+
 ## What the path covers
 
 - **AI foundations:** machine learning, neural networks, LLMs, data provenance, and model lifecycle.
